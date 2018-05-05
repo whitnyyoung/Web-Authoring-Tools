@@ -1,0 +1,18 @@
+nav{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    
+}
+#banner{
+    height:500px;
+    background-image: url(/airplane_1_1350x500.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+    margin: 20px;
+}
