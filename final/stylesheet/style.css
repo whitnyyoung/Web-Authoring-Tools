@@ -6,13 +6,25 @@ nav{
 }
 #banner{
     height:500px;
-    background-image: url(/airplane_1_1350x500.jpg);
+    background-image: url(/images/airplane_1540x500.jpg);
     background-repeat: no-repeat;
     background-position: center;
     text-align: center;
+    margin: 30px;
 }
 p{
     font-size: 20px;
     text-align: center;
     margin: 20px;
+}
+footer{
+    text-align: left;
+    margin-top: 20px;
+}
+
+#kblog{
+    text-align: center;
+}
+#intro{
+    margin: 40px;
 }
