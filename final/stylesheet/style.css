@@ -28,3 +28,10 @@ footer{
 #intro{
     margin: 40px;
 }
+#bloginfo{
+    text-align: left;
+}
+blockquote{
+    padding: 50px 300px;
+    font-size: 18px;
+}
